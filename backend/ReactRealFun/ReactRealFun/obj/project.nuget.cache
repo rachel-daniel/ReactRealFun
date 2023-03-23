@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6AOc69rLqwc8i2rr59gUh6kHc07Sa0c34D1CN9qbeuUt5Q2KzKlWyJEDrARTqhYR0AIP/x3kYGAHkaUxakXxA==",
+  "success": true,
+  "projectFilePath": "/Users/racheldaniel/BYU/Winter2023/IS413/ReactRealFun/backend/ReactRealFun/ReactRealFun/ReactRealFun.csproj",
+  "expectedPackageFiles": [
+    "/Users/racheldaniel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/racheldaniel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/racheldaniel/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/racheldaniel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/racheldaniel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/racheldaniel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
